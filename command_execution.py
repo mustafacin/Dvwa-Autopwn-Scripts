@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+#this script is medium and low level
+
 import urllib.request
 import urllib.parse
 
